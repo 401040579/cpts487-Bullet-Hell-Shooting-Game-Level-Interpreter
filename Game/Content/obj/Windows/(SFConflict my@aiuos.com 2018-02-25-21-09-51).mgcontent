@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/fonts/EnemyLocater.spritefont</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/fonts/RemainingLives.spritefont</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/fonts/Score.spritefont</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/background/Background.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/background/C1.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/background/C2.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/bullets/bullet.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/bullets/enemyBullet.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/sounds/shot.wav</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/sounds/BGM.mp3</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/doflamingo.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/Luffy.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/Luffy_Tile.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/bullets/Scattershot_bullet.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/bullets/Scattershot_wall.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/bullets/tracking_Bullet.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/final_boss.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/midboss.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/midBossCompanion.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/fonts/GG.spritefont</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/BH_STG_Menu_Content/Fonts/Orbitron.spritefont</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/BH_STG_Menu_Content/Gameplay/Player.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/BH_STG_Menu_Content/ScreenManager/FadeImage.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/BH_STG_Menu_Content/SplashScreen/Image.jpg</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/lifeStar.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/fonts/_CheatMode.spritefont</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/bullets/bomb.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/butterfly.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/lifeStar2.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/lifeStar3.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/butterfly2.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/butterfly3.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/doflamingo2.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/doflamingo3.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/final_boss2.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/final_boss3.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/Luffy2.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/Luffy3.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/midboss2.png</File>
+    <File>F:/Seafile/OneDriveFiles/5. 学/wsu/wsu 17fa/wsu fall17/cpts487fa/Rep_Junhao/Game/Content/img/Humanoid/midboss3.png</File>
+  </SourceFiles>
+</SourceFileCollection>
