@@ -1,0 +1,75 @@
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\TeamWowGame.exe.config
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\BH_STG_Menu_Content\Fonts\Orbitron.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\BH_STG_Menu_Content\Gameplay\Player.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\BH_STG_Menu_Content\ScreenManager\FadeImage.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\BH_STG_Menu_Content\SplashScreen\Image.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\fonts\EnemyLocater.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\fonts\GG.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\fonts\RemainingLives.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\fonts\Score.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\fonts\_CheatMode.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\lifeStar.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\background\Background.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\background\C1.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\background\C2.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\bullets\bullet.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\bullets\enemyBullet.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\bullets\Scattershot_bullet.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\bullets\Scattershot_wall.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\bullets\tracking_Bullet.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\doflamingo.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\final_boss.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\Luffy.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\Luffy_Tile.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\midboss.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\midBossCompanion.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\sounds\BGM.wma
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\sounds\BGM.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\sounds\shot.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\TeamWowGame.exe
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\TeamWowGame.pdb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\BH_STG.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\KmapInterface.exe
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\BH_STG.pdb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\KmapInterface.pdb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\obj\x86\Debug\TeamWowGame.exe
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\obj\x86\Debug\TeamWowGame.pdb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\bullets\bomb.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\butterfly.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\lifeStar2.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\lifeStar3.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\butterfly2.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\butterfly3.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\doflamingo2.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\doflamingo3.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\final_boss2.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\final_boss3.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\Luffy2.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\Luffy3.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\midboss2.xnb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\Content\img\Humanoid\midboss3.xnb
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\TeamWowGame.exe.config
+C:\Users\Ran Tao\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\Game\bin\Windows\x86\Debug\TeamWowGame.exe.config
+C:\Users\Ran Tao\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\Game\obj\x86\Debug\TeamWowGame.exe
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\Game\obj\x86\Debug\TeamWowGame.pdb
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
