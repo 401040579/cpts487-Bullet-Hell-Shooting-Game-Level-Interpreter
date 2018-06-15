@@ -1,0 +1,49 @@
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\BH_STG.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\BH_STG.pdb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\KmapInterface.exe
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\MonoGame.Framework.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\MonoGame.Framework.Net.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\KmapInterface.pdb
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\MonoGame.Framework.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\MonoGame.Framework.Net.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\obj\Debug\BH_STG.csprojResolveAssemblyReference.cache
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\obj\Debug\BH_STG.dll
+C:\Users\Ran Tao\Desktop\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\obj\Debug\BH_STG.pdb
+C:\Users\Ran Tao\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\KmapInterface.exe
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\BH_STG.dll
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\BH_STG.pdb
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\KmapInterface.exe
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\MonoGame.Framework.dll
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\MonoGame.Framework.Net.dll
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.XAudio2.dll
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.dll
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.DXGI.dll
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.Direct3D11.dll
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.Direct2D1.dll
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.XInput.dll
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.MediaFoundation.dll
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\KmapInterface.pdb
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\MonoGame.Framework.xml
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\MonoGame.Framework.Net.xml
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.XAudio2.xml
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.xml
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.DXGI.xml
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.Direct3D11.xml
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.Direct2D1.xml
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.XInput.xml
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\bin\Debug\SharpDX.MediaFoundation.xml
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\obj\Debug\BH_STG.csprojResolveAssemblyReference.cache
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\obj\Debug\BH_STG.dll
+F:\Seafile\OneDriveFiles\5. 学\wsu\wsu 17fa\wsu fall17\cpts487fa\Rep_Junhao\BH_STG\obj\Debug\BH_STG.pdb
